@@ -1,16 +1,13 @@
-### Hi there 👋
+### Seja bem vindo! Sou o Nicolas Gabriel da Silva
 
-<!--
-**nicolasdsgabriel/nicolasdsgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Atualmente foco meus estudos na linguagem Python;
+- Tenho interesses nas áreas de ciência de dados e análise de dados;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/nicolasdsgabriel
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasdsgabriel&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdsgabriel&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
