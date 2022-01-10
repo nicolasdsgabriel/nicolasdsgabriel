@@ -11,6 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://discord.com/channels/812138145906032720/812138146384314410/930085101210046474">
+   <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/812138146384314410/930085100253753414/the_office_no_idea.gif">
 </div>
 
