@@ -11,6 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/375/1*gyCUqU64_ZEUFlGuwYr0pg.gif">
+   <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/tSqwsQ1dMq9xC6cqlP/giphy.gif?cid=790b761134d8165c9484e70caf32fd49a0998b110833fb75&rid=giphy.gif&ct=g">
 </div>
 
