@@ -14,3 +14,10 @@
    <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/tSqwsQ1dMq9xC6cqlP/giphy.gif?cid=790b761134d8165c9484e70caf32fd49a0998b110833fb75&rid=giphy.gif&ct=g">
 </div>
 
+##
+
+<div>
+  <a href = "mailto:nicolasdsgabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolas-gabriel-da-silva-626a211b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+
