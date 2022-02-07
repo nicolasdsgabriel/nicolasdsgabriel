@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nicolas-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Nicolas-SQLServer" height="30" width="40" src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-sql-server-big-data-wanicon-flat-wanicon.png">
    <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/tSqwsQ1dMq9xC6cqlP/giphy.gif?cid=790b761134d8165c9484e70caf32fd49a0998b110833fb75&rid=giphy.gif&ct=g">
 </div>
 
