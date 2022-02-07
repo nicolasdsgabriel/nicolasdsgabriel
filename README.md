@@ -1,7 +1,7 @@
-### Seja bem vindo! 
+### Seja bem vindo! Sou o Nicolas Gabriel da Silva
 
 
-- Atualmente foco meus estudos na linguagem Python e SQL;
+- Atualmente foco meus estudos nas linguagens Python e SQL;
 - Tenho interesses nas áreas de ciência de dados e análise de dados;
 
 <div align="center">
@@ -11,6 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nicolas-SQLServer" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
    <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/tSqwsQ1dMq9xC6cqlP/giphy.gif?cid=790b761134d8165c9484e70caf32fd49a0998b110833fb75&rid=giphy.gif&ct=g">
 </div>
 
