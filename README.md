@@ -1,7 +1,7 @@
 ### Seja bem vindo! Sou o Nicolas Gabriel da Silva
 
 
-- Atualmente foco meus estudos na linguagem Python;
+- Atualmente foco meus estudos na linguagem Python e SQL;
 - Tenho interesses nas áreas de ciência de dados e análise de dados;
 
 <div align="center">
