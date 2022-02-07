@@ -1,4 +1,4 @@
-### Seja bem vindo! Sou o Nicolas Gabriel da Silva
+### Seja bem vindo! 
 
 
 - Atualmente foco meus estudos na linguagem Python e SQL;
