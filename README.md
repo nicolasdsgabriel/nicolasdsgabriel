@@ -1,8 +1,7 @@
 ### Seja bem vindo! Sou o Nicolas Gabriel da Silva
 
 
-- Atualmente foco meus estudos nas linguagens Python e SQL;
-- Tenho interesses nas áreas de ciência de dados e análise de dados;
+- Tenho interesses nas áreas de ciência de dados, bando de dados e desenvolvimento;
 
 <div align="center">
   <a href="https://github.com/nicolasdsgabriel
