@@ -1,7 +1,7 @@
 ### Seja bem vindo! Sou o Nicolas Gabriel da Silva
 
 
-- Tenho interesses nas áreas de ciência de dados, bando de dados e desenvolvimento;
+- Em busca de me tornar um desenvolvedor full stack;
 
 <div align="center">
   <a href="https://github.com/nicolasdsgabriel
