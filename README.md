@@ -4,7 +4,6 @@
 - Em busca de me tornar um desenvolvedor full stack;
 
 <div align="center">
-  <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
   <a href="https://github.com/nicolasdsgabriel
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasdsgabriel&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdsgabriel&layout=compact&langs_count=7&theme=dark"/>
