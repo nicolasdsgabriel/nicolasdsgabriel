@@ -1,10 +1,13 @@
-### Seja bem vindo! Sou o Nicolas Gabriel da Silva
-
-
-- Em busca de me tornar um desenvolvedor full stack;
+### Welcome !, i'm Nicolas Silva and this is my portfolio, make yourself at home and i hope you enjoy.
 
 <div align="center">
-  <a href="https://github.com/nicolasdsgabriel
+  <img width="490" height="330" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q8iu39n4cgeo11nnx6f82roo847ddv94uxiuhxe0&rid=giphy.gif&ct=g">
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/nicolasdsgabriel"/>
+  SOME STATS
+  <br/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasdsgabriel&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdsgabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -13,7 +16,6 @@
   <img align="center" alt="Nicolas-SQLServer" height="30" width="40" src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-sql-server-big-data-wanicon-flat-wanicon.png">
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Nicolas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="right" alt="Nicolas-gif" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/tSqwsQ1dMq9xC6cqlP/giphy.gif?cid=790b761134d8165c9484e70caf32fd49a0998b110833fb75&rid=giphy.gif&ct=g">
 </div>
 
 ##
