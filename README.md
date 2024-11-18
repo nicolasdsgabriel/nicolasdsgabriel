@@ -12,10 +12,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdsgabriel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <a href="https://github.com/nicolasdsgabriel"/>
+  TOOLS
   <img align="center" alt="Nicolas-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Nicolas-Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
   <img align="center" alt="Nicolas-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+  <img align="center" alt="Nicolas-PBI" height="30" width="40" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021">
 </div>
 
 ##
